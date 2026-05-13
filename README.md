@@ -44,5 +44,7 @@ Unlike many BI projects based on flat files, this one utilizes a relational data
 
 **Author:** Stanislaw Saduro
 **Connect with me via email or LinkedIn:** 
-*stas.saduro@gmail.com
-*(https://www.linkedin.com/in/stanislav-saduro-4045b3305/)
+
+stas.saduro@gmail.com
+
+https://www.linkedin.com/in/stanislav-saduro-4045b3305/
