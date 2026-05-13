@@ -13,7 +13,7 @@ The core challenge was not just to visualize data, but to build a scalable analy
 * **BI Tool:** Tableau Desktop (2024.1)
 * **Database:** PostgreSQL (Cloud/Local instance)
 * **Languages:** SQL (PostgreSQL), Tableau Calculations (LOD, Advanced Logic)
-* **Data Source:** theLook eCommerce dataset (Synthesized Sales, Users, and Products data)
+* **Data Source:** [Kagle eCommerce dataset](https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset?select=products.csv) (Synthesized Sales, Users, and Products data)
 
 ## 🗄 Data Engineering & Architecture
 Unlike many BI projects based on flat files, this one utilizes a relational database structure.
